@@ -17,4 +17,5 @@
 
 
 =======================  How to Checkout cloning repository ================
-git checkout master   (if there set main)
+  
+1. git checkout master   (if there set main)
