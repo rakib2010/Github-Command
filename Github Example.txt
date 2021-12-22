@@ -10,3 +10,16 @@
 
 =======================  How to change Existing Repository =================
 1. git remote set-url origin <gitLink>
+
+=======================  How to Clone a Repository & push it =========================
+1. copy the repository url
+2. git clone url(repository url)
+Now push it
+3. git add (cloned file)
+4. git commit -m "message"
+5. git push origin master
+
+
+=======================  How to Checkout cloning repository ================
+  
+1. git checkout master   (if there set main)
