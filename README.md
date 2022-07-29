@@ -30,4 +30,5 @@ Now push it
 3. git pull
 
 =======================  How to delete existing files  ================
-git checkout .
+
+ git checkout .
