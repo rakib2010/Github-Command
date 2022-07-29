@@ -25,10 +25,10 @@ Now push it
 1. git checkout master   (if there set main)
 
 =======================  How to Overwrite/ merge local files ================
-1. git add *
+1. git add  *
 2. git stash
 3. git pull
 
 =======================  How to delete existing files  ================
 
- git checkout .
+ git checkout  .
