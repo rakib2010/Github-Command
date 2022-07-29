@@ -5,7 +5,7 @@
 4. git remote add origin <gitLink>
 5. git remote -v / --verbose
 6. git add .(.all files) / example.txt/folder(single file)
-7. git commmit -m "commit message" 
+7. git commit -m "commit message" 
 8. git push origin master
 
 =======================  How to change Existing Repository =================
@@ -23,3 +23,11 @@ Now push it
 =======================  How to Checkout cloning repository ================
   
 1. git checkout master   (if there set main)
+
+=======================  How to Overwrite/ merge local files ================
+1. git add *
+2. git stash
+3. git pull
+
+=======================  How to delete existing files  ================
+git checkout .
